@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e8655e5340b346af86ddceba46978991/artifacts
+deleted_time: 1749808492451
+end_time: 1749808429617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8655e5340b346af86ddceba46978991
+run_name: delightful-crab-717
+run_uuid: e8655e5340b346af86ddceba46978991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749808429563
+status: 4
+tags: []
+user_id: mungughyeon

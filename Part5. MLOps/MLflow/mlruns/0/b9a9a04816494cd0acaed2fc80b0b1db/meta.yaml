@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b9a9a04816494cd0acaed2fc80b0b1db/artifacts
+end_time: 1749809184169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9a9a04816494cd0acaed2fc80b0b1db
+run_name: silent-flea-739
+run_uuid: b9a9a04816494cd0acaed2fc80b0b1db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749809181539
+status: 3
+tags: []
+user_id: mungughyeon

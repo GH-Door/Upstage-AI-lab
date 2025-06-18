@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/de673cc0b0144f6699617e23262b003c/artifacts
+deleted_time: 1749808586556
+end_time: 1749808557522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: de673cc0b0144f6699617e23262b003c
+run_name: trusting-moth-978
+run_uuid: de673cc0b0144f6699617e23262b003c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749808557468
+status: 4
+tags: []
+user_id: mungughyeon
