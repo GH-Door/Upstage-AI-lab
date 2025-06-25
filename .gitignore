@@ -4,6 +4,7 @@ Part6. Deep-Learning/data/MNIST_DATASET/
 
 # 자료
 *.pdf
+*.csv
 
 # macOS
 .DS_Store
