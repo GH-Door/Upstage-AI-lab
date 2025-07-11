@@ -1,15 +1,12 @@
+# 데이터 무시
+**/data/
+
 # 이미지 데이터 폴더 무시
 Part6. Deep-Learning/data/Medium/
 Part6. Deep-Learning/data/MNIST_DATASET/
 
 # 자료
 *.pdf
-
-# 이미지 파일 무시
-*.png
-*.jpg
-*.jpeg
-*.gif
 
 # macOS
 .DS_Store
