@@ -1,4 +1,4 @@
-# 데이터 무시
+# 모든 'data' 폴더 무시
 **/data/
 
 # 모델
@@ -22,6 +22,13 @@ __pycache__/
 env/
 venv/
 .venv/
+
+# MLOps
+mlruns/
+mlartifacts/
+
+# Application Data
+Part1. Python 기초/Chapter02. 파이썬 제어문/todo.json
 
 # 기타 IDE 및 에디터 설정
 *.swp
