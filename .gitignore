@@ -5,6 +5,9 @@
 Part6. Deep-Learning/data/Medium/
 Part6. Deep-Learning/data/MNIST_DATASET/
 
+# 모델
+Part6. Deep-Learning/PyTorch/models/
+
 # 자료
 *.pdf
 
